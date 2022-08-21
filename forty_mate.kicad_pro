@@ -378,10 +378,7 @@
         "name": "Power",
         "nets": [
           "Bat+",
-          "GND",
-          "Net-(BT1-Pad1)",
-          "Net-(BT2-Pad1)",
-          "Net-(D44-Pad1)"
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
